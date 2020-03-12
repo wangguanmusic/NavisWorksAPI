@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="AECOM.NavisWorks2019.Addins.ScheduleSetting"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AECOM.NavisWorks2019.Addins"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="White">
+        <DataGrid x:Name="ObjectInfo"
+                  ItemsSource="{Binding ObjectInfo}"
+                  HorizontalAlignment="Left" 
+                  Height="Auto"
+                  VerticalAlignment="Top" 
+                  AutoGenerateColumns="True"
+                  Width="Auto"
+                  
+                  ></DataGrid>
+        <DataGrid x:Uid="00001"
+                  x:Name="ProjectPhase"
+                  ItemsSource="{Binding ProjectPhases}"
+                  Margin="50,50,5,5"
+                  HorizontalAlignment="Left" 
+                  Height="Auto"
+                  VerticalAlignment="Top" 
+                  AutoGenerateColumns="True"
+                  CanUserAddRows="False"
+                  Width="Auto">
+
+        </DataGrid>
+        <Button x:Name="Button_CreateTask" Content="Create Task" HorizontalAlignment="Left" Margin="85,25,0,0" VerticalAlignment="Top" Width="75" Click="Button_CreateTask_Click"/>
+
+    </Grid>
+</UserControl>

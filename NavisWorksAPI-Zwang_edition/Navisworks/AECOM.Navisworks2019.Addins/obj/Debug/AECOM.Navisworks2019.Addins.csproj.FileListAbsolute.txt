@@ -1,0 +1,196 @@
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\AECOM.Navisworks2019.Addins.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\AECOM.Navisworks2019.Addins.pdb
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.roamer.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.generic.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.interface.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.common.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\odviewdll_clr.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.roamer.clr.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.glue.rest.interop.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Data.v3.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Controls.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Grid.Wpf.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Core.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Controls.xml
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\lcodpgluerest.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.csprojAssemblyReference.cache
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CustomRibbon_V2019.baml
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ClashForm.g.cs
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CreateTaskWithGroups.g.cs
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ScheduleSetting_V2019.g.cs
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\SearchElements.g.cs
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins_MarkupCompile.cache
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins_MarkupCompile.lref
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ClashForm.baml
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CreateTaskWithGroups.baml
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ScheduleSetting_V2019.baml
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\SearchElements.baml
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.g.resources
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.csproj.CopyComplete
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.pdb
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\AECOM.Navisworks2019.Addins.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\AECOM.Navisworks2019.Addins.pdb
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Api.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.roamer.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.generic.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.interface.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.common.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\odviewdll_clr.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.roamer.clr.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.glue.rest.interop.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Data.v3.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Controls.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Grid.Wpf.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Core.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Controls.xml
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\lcodpgluerest.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.csprojAssemblyReference.cache
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CustomRibbon_V2019.baml
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ClashForm.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CreateTaskWithGroups.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ScheduleSetting_V2019.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\SearchElements.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins_MarkupCompile.cache
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins_MarkupCompile.lref
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ClashForm.baml
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CreateTaskWithGroups.baml
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ScheduleSetting_V2019.baml
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\SearchElements.baml
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.g.resources
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.csproj.CopyComplete
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.pdb
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Automation.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Clash.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Timeliner.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\lcclash.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Automation.xml
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.ComApi.dll
+C:\Users\zongguan.wang\Downloads\NavisWorks (1)\NavisWorks\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.ComApi.xml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\AECOM.Navisworks2019.Addins.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\AECOM.Navisworks2019.Addins.pdb
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Api.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Automation.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Clash.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.ComApi.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Timeliner.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.roamer.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.generic.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.interface.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.common.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\odviewdll_clr.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.roamer.clr.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.glue.rest.interop.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Data.v3.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Controls.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Grid.Wpf.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Core.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Automation.xml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.ComApi.xml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Controls.xml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\lcclash.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\lcodpgluerest.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.csprojAssemblyReference.cache
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CustomRibbon_V2019.baml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ClashForm.g.cs
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CreateTaskWithGroups.g.cs
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ScheduleSetting_V2019.g.cs
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\SearchElements.g.cs
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins_MarkupCompile.cache
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins_MarkupCompile.lref
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ClashForm.baml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CreateTaskWithGroups.baml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ScheduleSetting_V2019.baml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\SearchElements.baml
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.g.resources
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.csproj.CopyComplete
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.dll
+C:\Users\zongguan.wang\Documents\GitHub\NavisWorksAPI\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.pdb
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\AECOM.Navisworks2019.Addins.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\AECOM.Navisworks2019.Addins.pdb
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Api.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Automation.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Clash.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.ComApi.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Timeliner.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.roamer.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.generic.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.interface.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.gui.common.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\odviewdll_clr.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.roamer.clr.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\navisworks.glue.rest.interop.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Janus.Data.v3.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Controls.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.GridCommon.Wpf.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Grid.Wpf.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Tools.Wpf.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Shared.Wpf.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Syncfusion.Core.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Automation.xml
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.ComApi.xml
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\Autodesk.Navisworks.Controls.xml
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\lcclash.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\bin\Debug\lcodpgluerest.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.csprojAssemblyReference.cache
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CustomRibbon_V2019.baml
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ClashForm.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CreateTaskWithGroups.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ScheduleSetting_V2019.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\SearchElements.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins_MarkupCompile.cache
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins_MarkupCompile.lref
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ClashForm.baml
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\CreateTaskWithGroups.baml
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\ScheduleSetting_V2019.baml
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\SearchElements.baml
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.g.resources
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.csproj.CopyComplete
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.dll
+C:\Users\zongguan.wang\Downloads\NavisWorksAPI-Zwang_edition\NavisWorksAPI-Zwang_edition\Navisworks\AECOM.Navisworks2019.Addins\obj\Debug\AECOM.Navisworks2019.Addins.pdb

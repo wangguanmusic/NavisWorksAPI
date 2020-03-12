@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="AECOM.NavisWorks2019.Addins.ClashForm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:static="clr-namespace:AECOM.NavisWorks2019.Addins"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <static:categoryList x:Name="categoryList" x:Key="categoryList"/>
+    </UserControl.Resources>
+
+    <Grid Background="White" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="1*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid Grid.Row="2" x:Name="selectionA"  AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn Binding="{Binding selection}" Header="Selection" Width="*"/>-->
+                <DataGridTemplateColumn Header="Selection A" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding cat}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox Height="22"
+                                      Name="comboBoxA"
+                                      ItemsSource="{StaticResource categoryList}"
+                                      SelectedItem="{Binding cat}"  
+                                      />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid  x:Name="selectionB" Grid.Row="2" Grid.Column="1" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn Binding="{Binding selection}" Header="Selection" Width="*"/>-->
+                <DataGridTemplateColumn Header="Selection B" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding cat}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox Height="22"
+                                      Name="comboBoxB"
+                                      ItemsSource="{StaticResource categoryList}"
+                                      SelectedItem="{Binding cat}"
+                                       />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Column="0"  Grid.Row="1" Content="Create Clash Test" HorizontalAlignment="Stretch"  VerticalAlignment="Bottom" Width="Auto" Height="30" Click="Button_Click" Grid.ColumnSpan="2"/>
+        <TextBox x:Name ="TestName" Grid.Row="1" Margin="0,40,0,30"  VerticalAlignment="Bottom" TextWrapping="Wrap" Text="Type test name in here" Height="30" Grid.ColumnSpan="2"/>
+        <Label Content="Clash Test Name" Grid.Row="1" VerticalAlignment="Bottom" Margin="0,0,0,60" Grid.ColumnSpan="2" Height="30"/>
+
+    </Grid>
+</UserControl>

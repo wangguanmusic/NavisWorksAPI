@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="AECOM.Navisworks2019.Addins.SearchElements"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AECOM.Navisworks2019.Addins"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="1*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btSelectSearchFolder" Grid.Column="0"  Grid.Row="1" Content="Select Search Folder" HorizontalAlignment="Stretch"  VerticalAlignment="Bottom"  Height="30" Grid.ColumnSpan="2"  Click="btSelectSearchFolder_Click"/>
+
+        <Button x:Name="btSelectElementIdsFile" Grid.Column="0"  Grid.Row="2" Content="Select Element ID CSV" HorizontalAlignment="Stretch"   Width="Auto" Height="30" Grid.ColumnSpan="2"  Click="btSelectElementIdsFile_Click"/>
+        <Button x:Name="btSelectOutputFile" Grid.Column="0"  Grid.Row="3" Content="Select Report CSV" HorizontalAlignment="Stretch"   Width="Auto" Height="30" Grid.ColumnSpan="2"  Click="btSelectOutputFile_Click"/>
+        <Button x:Name="btSearch" Grid.Column="0"  Grid.Row="4" Content="Search" HorizontalAlignment="Stretch"   Width="Auto" Height="30" Grid.ColumnSpan="2"  Click="btSearch_Click"/>
+        <Label x:Name="lbProgress" Content="Progress" HorizontalAlignment="Left" Margin="10,160,0,0" Grid.Row="5" VerticalAlignment="Top" Width="780" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</UserControl>

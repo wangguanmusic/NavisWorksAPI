@@ -1,0 +1,15 @@
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\AECOM.Navisworks2019.IO.dll.config
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\AECOM.Navisworks2019.IO.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\AECOM.Navisworks2019.IO.pdb
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\AECOM.Extensions.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\AECOM.OM.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\AECOM.Services.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\AECOM.Storage.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\AECOM.UI.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\obj\Debug\AECOM.Navisworks2019.IO.Properties.Resources.resources
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\obj\Debug\AECOM.Navisworks2019.IO.csproj.GenerateResource.cache
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\obj\Debug\AECOM.Navisworks2019.IO.csproj.CopyComplete
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\obj\Debug\AECOM.Navisworks2019.IO.dll
+C:\Users\xiaoxuan.peng\source\repos\NavisWorks\Navisworks\AECOM.Navisworks2019.IO\obj\Debug\AECOM.Navisworks2019.IO.pdb
